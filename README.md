@@ -13,3 +13,5 @@ In this project the stakeholders are looking to monitor and analyze emergency ro
 - What percentage of patients were seen within 30 minutes?
 - What are the demographics of ER patients (age, gender, race)? What are the busiest days and hours for ER visits?
 - Which departments refer the most patients to the ER?
+
+# Data Structure & Initial 
