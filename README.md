@@ -24,7 +24,19 @@ The Stakeholders want the analysis in 4 different dashboards with different info
 # Data Structure & Initial Checks
 
 The Emergency room dataset as seen below consist of 12 columns and total rows of 9,217 records.
-
+1. Patient Id: Float64
+2. Patient Admission Date: Date & Time
+3. Patient First initial: String 
+4. Patient Last Name: String
+5. Patient Gender: String
+6. Patient Age: Int64
+7. Patient Race: String
+8. Department Referral: String
+9. Patient Admission Flag: Boolen
+10. Patient Satisfaction Score: Int64
+11. Patient Wait Time: Int64
+12. Patient Cm: Int64
+    
 # Executive Summary
 
 ### Overview of Findings:
